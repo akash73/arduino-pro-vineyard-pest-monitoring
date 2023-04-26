@@ -1,6 +1,6 @@
 # Vineyard Pest Monitoring With Arduino Pro
 
-Edge Impulse project: https://studio.edgeimpulse.com/public/184880/latest
+Edge Impulse project: [https://studio.edgeimpulse.com/public/184880/latest](https://studio.edgeimpulse.com/public/189874/latest)
 
 ## Hardware Requirements
 - [Nicla Vision](https://store.arduino.cc/products/nicla-vision)
@@ -27,3 +27,6 @@ Edge Impulse project: https://studio.edgeimpulse.com/public/184880/latest
 | ----------- | ----------- |
 | D0 | DIN |
 | GND | GND |
+
+
+This project was originally forked from the friends at Zalmotek
