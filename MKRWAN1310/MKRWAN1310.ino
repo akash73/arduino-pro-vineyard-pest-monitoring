@@ -50,7 +50,7 @@ void loop() {
 
   if (Serial1.available()) {
     bugsCountNicla = Serial1.parseInt();
-    if (bugsCountNicla < 100) { // needed to remove wrong readings
+    if (bugsCountNicla < 100) { //upper threshold
       bugsCount = bugsCountNicla;
       Serial.println(bugsCount);
     }
